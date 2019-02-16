@@ -1,0 +1,37 @@
+{
+  "name": "__MSG_extName__",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "__MSG_extDescription__",
+  "icons": {
+    "32": "icon.png",
+    "48": "icon48.png"
+  },
+  "default_locale": "en",
+  "commands": {
+    "play-action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+L"
+      },
+      "description": "__MSG_pausePlay__",
+      "global": true
+    },
+    "next-action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+K"
+      },
+      "description": "__MSG_toNext__",
+      "global": true
+    }
+  },
+  "background": {
+    "persistent": false,
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "permissions": [
+    "https://radio.yandex.ru/*",
+    "tabs"
+  ]
+}

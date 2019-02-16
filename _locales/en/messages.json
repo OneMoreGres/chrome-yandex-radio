@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "Yandex.Radio hotkeys"
+  },
+  "extDescription": {
+    "message": "Control Yandex.Radio playback with hotkeys"
+  },
+  "pausePlay": {
+    "message": "Pause/play music"
+  },
+  "toNext": {
+    "message": "To next"
+  }
+}
