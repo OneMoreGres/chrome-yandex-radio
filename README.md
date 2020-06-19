@@ -1,5 +1,5 @@
-# Hotkey controls for Yandex.Radio site (Chrome extension)
+# Hotkey controls for Yandex.Radio/Music sites (Chrome extension)
 
-Yandex.Radio tab must be open.
+Yandex.Radio/Music tab must be open.
 
 Edit hotkeys in chrome extensions' page.
